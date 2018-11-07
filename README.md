@@ -1,2 +1,2 @@
 # LinearRegression
-Simple Linear Regression Using Python and Jupyter
+Simple Linear Regression Using Python and Jupyter Notebook
